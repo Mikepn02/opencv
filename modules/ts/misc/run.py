@@ -37,6 +37,11 @@ regular test output
 Collected: ['core_20221017-195300.xml']
 """
 
+import utils.net
+import utils.clients
+import utils.http_session
+import utils.transport
+import utils.session
 import os
 import argparse
 import logging
