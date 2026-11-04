@@ -6,7 +6,7 @@
   "author": "WebNN-native Authors",
   "license": "Apache-2.0",
   "scripts": {
-    "start": "node init && electron ."
+    "start": "electron ."
   },
   "dependencies": {
     "electron": "^15.1.2"
